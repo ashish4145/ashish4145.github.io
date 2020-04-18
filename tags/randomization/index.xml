@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>randomization on Cistern of Thoughts</title>
+    <link>/tags/randomization/</link>
+    <description>Recent content in randomization on Cistern of Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Feb 2018 09:30:21 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/randomization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SELECTIVE METHODS OF ONLINE FIELD EXPERIMENTS - IMPORTANCE OF NATURAL EXPERIMENTS</title>
+      <link>/post/2018-02-06-experiments/</link>
+      <pubDate>Tue, 06 Feb 2018 09:30:21 +0530</pubDate>
+      
+      <guid>/post/2018-02-06-experiments/</guid>
+      <description>Authors: Avinash Kuchipudi | Harendra Prasad B | Raghu ram Ambati |Ashok Reddy |Vivek Velagala
+(Group 6)
+Synopsis The number of experiments being conducted on internet tend to have high number of observations. The analytics driven business of websites and e-commerce need these experiments to identify parameters which can help to develop the business. Natural experiment model is one such method where the several unknown parameters can be identified. The article explains a few techniques for researchers in navigating the online field experiment arena.</description>
+    </item>
+    
+  </channel>
+</rss>

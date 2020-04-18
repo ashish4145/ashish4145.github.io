@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bounce rate on Cistern of Thoughts</title>
+    <link>/tags/bounce-rate/</link>
+    <description>Recent content in bounce rate on Cistern of Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Feb 2018 09:30:21 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/bounce-rate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WEB ANALYTICS</title>
+      <link>/post/2018-02-05-web-analytics/</link>
+      <pubDate>Mon, 05 Feb 2018 09:30:21 +0530</pubDate>
+      
+      <guid>/post/2018-02-05-web-analytics/</guid>
+      <description>PAPER: WEB ANALYTICS 2.0: EMPOWERING CUSTOMER CENTRICITY Introduction Web Analytics is a mixture of science and art and its goal is improving the customer&amp;rsquo;s experience while surfing a website.
+Why is it a science? - It is a science because it uses a scientific methodology and techniques such as statistics, data mining etc.
+Why is it an art? - It is an art because improving a website requires creativity balancing user-centric design, content, image, promotions etc.</description>
+    </item>
+    
+  </channel>
+</rss>

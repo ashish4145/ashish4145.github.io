@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/post/bob/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/rety/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-09-30-getting/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/go/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/golang/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/test/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/testnewdoc/</loc>
+    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-09-19-sample/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/newpost/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/authentication/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-relevance/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/degree-of-control/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/field-experiment/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/funders/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/generalizability/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/health-sector/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/identification/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/intervention/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/natural-experiment/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/policy-makers/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/randomization/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sampling/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scalability/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-02-06-experiments/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/technology/</loc>
+    <lastmod>2018-02-06T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/analysing-data/</loc>
+    <lastmod>2018-02-05T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bounce-rate/</loc>
+    <lastmod>2018-02-05T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/computational-advertising/</loc>
+    <lastmod>2018-02-05T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/customer-engagement/</loc>
+    <lastmod>2018-02-05T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/javascript-tagging/</loc>
+    <lastmod>2018-02-05T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/key-performance-indicators/</loc>
+    <lastmod>2018-02-05T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2018-02-05T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/packet-sniffing/</loc>
+    <lastmod>2018-02-05T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/traffic-sources/</loc>
+    <lastmod>2018-02-05T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-02-05-web-analytics/</loc>
+    <lastmod>2018-02-05T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/web-analytics/</loc>
+    <lastmod>2018-02-05T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/web-beacons/</loc>
+    <lastmod>2018-02-05T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/web-logs/</loc>
+    <lastmod>2018-02-05T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/website-optimization/</loc>
+    <lastmod>2018-02-05T09:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/coca-cola-company/</loc>
+    <lastmod>2018-01-19T08:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/customer-firm-relationship/</loc>
+    <lastmod>2018-01-19T08:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/effective-social-media-implementation/</loc>
+    <lastmod>2018-01-19T08:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/four-major-social-media-platforms/</loc>
+    <lastmod>2018-01-19T08:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/frequency-of-purchase/</loc>
+    <lastmod>2018-01-19T08:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/guidelines-for-social-media-implementation/</loc>
+    <lastmod>2018-01-19T08:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hewlett-packard/</loc>
+    <lastmod>2018-01-19T08:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-01-19-social-media-metrics/</loc>
+    <lastmod>2018-01-19T08:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/social-media-metrics/</loc>
+    <lastmod>2018-01-19T08:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/social-media-participation/</loc>
+    <lastmod>2018-01-19T08:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/walmart/</loc>
+    <lastmod>2018-01-19T08:30:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/barrier-to-digital-transformation/</loc>
+    <lastmod>2017-12-26T08:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/culture-digital-transformation/</loc>
+    <lastmod>2017-12-26T08:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/data-driven-decision-making/</loc>
+    <lastmod>2017-12-26T08:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-12-26-digital-transformation/</loc>
+    <lastmod>2017-12-26T08:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/digital-transformation-and-business-impact/</loc>
+    <lastmod>2017-12-26T08:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/digital-transformation-drivers/</loc>
+    <lastmod>2017-12-26T08:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/digital-digitally-mature/</loc>
+    <lastmod>2017-12-26T08:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/leadership-for-digital-transformation/</loc>
+    <lastmod>2017-12-26T08:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/stages-of-digital-transformation/</loc>
+    <lastmod>2017-12-26T08:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/strategy/</loc>
+    <lastmod>2017-12-26T08:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/talent-development-for-digital-transformation/</loc>
+    <lastmod>2017-12-26T08:00:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2017-12-13-digital-marketing/</loc>
+    <lastmod>2017-12-13T11:15:21+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/photography/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/poetryy/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/topics/</loc>
+  </url>
+  
+</urlset>

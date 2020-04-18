@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Cistern of Thoughts</title>
+    <link>/tags/technology/</link>
+    <description>Recent content in Technology on Cistern of Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Feb 2018 09:30:21 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SELECTIVE METHODS OF ONLINE FIELD EXPERIMENTS - IMPORTANCE OF NATURAL EXPERIMENTS</title>
+      <link>/post/2018-02-06-experiments/</link>
+      <pubDate>Tue, 06 Feb 2018 09:30:21 +0530</pubDate>
+      
+      <guid>/post/2018-02-06-experiments/</guid>
+      <description>Authors: Avinash Kuchipudi | Harendra Prasad B | Raghu ram Ambati |Ashok Reddy |Vivek Velagala
+(Group 6)
+Synopsis The number of experiments being conducted on internet tend to have high number of observations. The analytics driven business of websites and e-commerce need these experiments to identify parameters which can help to develop the business. Natural experiment model is one such method where the several unknown parameters can be identified. The article explains a few techniques for researchers in navigating the online field experiment arena.</description>
+    </item>
+    
+    <item>
+      <title>Digital Transformation</title>
+      <link>/post/2017-12-26-digital-transformation/</link>
+      <pubDate>Tue, 26 Dec 2017 08:00:21 +0530</pubDate>
+      
+      <guid>/post/2017-12-26-digital-transformation/</guid>
+      <description>INTRODUCTION Digital transformation may be explained as the renovation of organizational and business process, activities, models and competencies to be able to fully leverage and capitalize on opportunities and avenues provided by a mix of digital technologies. In this document, two articles are summarised, and an effort is made to shed more light on Data Driven Decision making (DDD) and on the importance of strategy in digital transformation which comes from the insights obtained from the articles.</description>
+    </item>
+    
+  </channel>
+</rss>

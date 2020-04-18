@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cistern of Thoughts</title>
+    <link>/</link>
+    <description>Recent content on Cistern of Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>bob</title>
+      <link>/post/bob/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/bob/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+    </item>
+    
+    <item>
+      <title>rety</title>
+      <link>/post/rety/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rety/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo2122222</title>
+      <link>/post/2019-09-30-getting/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-09-30-getting/</guid>
+      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
+
+&lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
+appropriate version for your os and architecture.&lt;/p&gt;
+
+&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>/post/test/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/test/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+    </item>
+    
+    <item>
+      <title>TestNew</title>
+      <link>/post/testnewdoc/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/testnewdoc/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+    </item>
+    
+    <item>
+      <title>Sample FIle</title>
+      <link>/post/2019-09-19-sample/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-09-19-sample/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo2</title>
+      <link>/post/newpost/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/newpost/</guid>
+      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
+
+&lt;p&gt;Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
+appropriate version for your os and architecture.&lt;/p&gt;
+
+&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SELECTIVE METHODS OF ONLINE FIELD EXPERIMENTS - IMPORTANCE OF NATURAL EXPERIMENTS</title>
+      <link>/post/2018-02-06-experiments/</link>
+      <pubDate>Tue, 06 Feb 2018 09:30:21 +0530</pubDate>
+      
+      <guid>/post/2018-02-06-experiments/</guid>
+      <description>Authors: Avinash Kuchipudi | Harendra Prasad B | Raghu ram Ambati |Ashok Reddy |Vivek Velagala
+(Group 6)
+Synopsis The number of experiments being conducted on internet tend to have high number of observations. The analytics driven business of websites and e-commerce need these experiments to identify parameters which can help to develop the business. Natural experiment model is one such method where the several unknown parameters can be identified. The article explains a few techniques for researchers in navigating the online field experiment arena.</description>
+    </item>
+    
+    <item>
+      <title>WEB ANALYTICS</title>
+      <link>/post/2018-02-05-web-analytics/</link>
+      <pubDate>Mon, 05 Feb 2018 09:30:21 +0530</pubDate>
+      
+      <guid>/post/2018-02-05-web-analytics/</guid>
+      <description>PAPER: WEB ANALYTICS 2.0: EMPOWERING CUSTOMER CENTRICITY Introduction Web Analytics is a mixture of science and art and its goal is improving the customer&amp;rsquo;s experience while surfing a website.
+Why is it a science? - It is a science because it uses a scientific methodology and techniques such as statistics, data mining etc.
+Why is it an art? - It is an art because improving a website requires creativity balancing user-centric design, content, image, promotions etc.</description>
+    </item>
+    
+    <item>
+      <title>Literature Review on two articles on Social Media Metrics</title>
+      <link>/post/2018-01-19-social-media-metrics/</link>
+      <pubDate>Fri, 19 Jan 2018 08:30:21 +0530</pubDate>
+      
+      <guid>/post/2018-01-19-social-media-metrics/</guid>
+      <description>Social media platforms such as Twitter and Facebook enable the creation of virtual customer environments (VCEs) where online communities of interest form around specific firms, brands, or products. While these platforms can be used to deliver familiar e-commerce applications, when firms fail to fully engage their customers, they also fail to fully exploit the capabilities of social media platforms. To gain business value, organizations need to incorporate community building as part of the implementation of social media.</description>
+    </item>
+    
+    <item>
+      <title>Digital Transformation</title>
+      <link>/post/2017-12-26-digital-transformation/</link>
+      <pubDate>Tue, 26 Dec 2017 08:00:21 +0530</pubDate>
+      
+      <guid>/post/2017-12-26-digital-transformation/</guid>
+      <description>INTRODUCTION Digital transformation may be explained as the renovation of organizational and business process, activities, models and competencies to be able to fully leverage and capitalize on opportunities and avenues provided by a mix of digital technologies. In this document, two articles are summarised, and an effort is made to shed more light on Data Driven Decision making (DDD) and on the importance of strategy in digital transformation which comes from the insights obtained from the articles.</description>
+    </item>
+    
+    <item>
+      <title>Digital Marketing Environment</title>
+      <link>/post/2017-12-13-digital-marketing/</link>
+      <pubDate>Wed, 13 Dec 2017 11:15:21 +0530</pubDate>
+      
+      <guid>/post/2017-12-13-digital-marketing/</guid>
+      <description>Core Functions of Marketing According to Daumas (1962, p.1)1 technology is the &amp;quot;...methods man has discovered and utilized to improve the conditions of his existence.&amp;quot; Some of the techniques that affect our day to day life are: production technique (e.g., industrial machinery), sustenance technique (e.g., agriculture), transportation technique (e.g., automobiles), measurement technique (e.g., clocks).
+Marketing at a very broad level deals with three kinds of primary functions:
+ Production: Production of goods and services is primary function of marketing.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>/post/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/photography/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/photography/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description> First Name  Last Name  E-Mail  City  State AL CA IL      Send   </description>
+    </item>
+    
+    <item>
+      <title>Poetry</title>
+      <link>/poetryy/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/poetryy/</guid>
+      <description>Disappear  Just Disappear</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>/post/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/goisforlovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>/post/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>/post/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+  </channel>
+</rss>

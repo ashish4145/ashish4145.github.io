@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frequency of Purchase on Cistern of Thoughts</title>
+    <link>/tags/frequency-of-purchase/</link>
+    <description>Recent content in Frequency of Purchase on Cistern of Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jan 2018 08:30:21 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/frequency-of-purchase/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Literature Review on two articles on Social Media Metrics</title>
+      <link>/post/2018-01-19-social-media-metrics/</link>
+      <pubDate>Fri, 19 Jan 2018 08:30:21 +0530</pubDate>
+      
+      <guid>/post/2018-01-19-social-media-metrics/</guid>
+      <description>Social media platforms such as Twitter and Facebook enable the creation of virtual customer environments (VCEs) where online communities of interest form around specific firms, brands, or products. While these platforms can be used to deliver familiar e-commerce applications, when firms fail to fully engage their customers, they also fail to fully exploit the capabilities of social media platforms. To gain business value, organizations need to incorporate community building as part of the implementation of social media.</description>
+    </item>
+    
+  </channel>
+</rss>
