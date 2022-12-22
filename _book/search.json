@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Managing Industry Project in Course",
+    "section": "",
+    "text": "Preface\nAt RMIT, we pride in providing hands-on learning experience in collaboration with industry. Industry engagement in research, education, and social impact makes RMIT a truly applied university.\n\nInternationally recognised as a leader in applied research and education, RMIT has a strong reputation working alongside businesses to deliver innovative solutions and create impact.\n\nThe business landscape is constantly changing. RMIT collaborates locally and globally with business, government, the not-for-profit sector and the community through partnerships that address current and future business challenges.\nAs a student, you experience such industry partnerships in your courses in various forms. For example, courses invite industry speakers to demonstrate how fundamental concepts, theories, and pedagogical skills are applied in business environment. Assessments in the courses, such as course projects, are designed in collaboration with industry partners. Case studies used in the courses are specifically designed by the instructors in a local context by collaborating with industry partners.\nThis book is prepared to guide students who are working on course projects in collaboration with industry partners. These course projects are comprehensive part of course assessment as they account for a major chunk of the course grade, they consist of continuous evaluation where project progress is measured throughout the semester (e.g., project introduction, engaging with industry partners, feedback session, and collaboration), they consist of multiple submissions (e.g, report and presentation), and students often work in groups to complete them. Thus, students face several challenges in managing course projects throughout the semester. The book addresses some of these challenges to ensure students complete their course project successfully.\n\n\n\n\nRMIT College of Business and Law. 2022. “Industry Engagement.” https://www.rmit.edu.au/about/schools-colleges/college-of-business-and-law/industry."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.\n\n\nRMIT College of Business and Law. 2022. “Industry\nEngagement.” https://www.rmit.edu.au/about/schools-colleges/college-of-business-and-law/industry."
+  }
+]
